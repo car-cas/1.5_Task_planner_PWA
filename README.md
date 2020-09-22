@@ -1,7 +1,7 @@
 Realizado por **Carlos Andrés Castañeda Lozano**.
 # 1.5 Task planner PWA
 ## Running instructions
-  + [URL HOSTING FIREBASE](https://taskplanner2-ieti.herokuapp.com/)
+  + [URL HOSTING FIREBASE](https://taskplanner-ieti.web.app)
 ### credentials
   * user: admin
   * password: admin
